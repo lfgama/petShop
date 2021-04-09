@@ -1,0 +1,44 @@
+{
+  "pets": [
+    {
+      "nome": "pandora",
+      "idade": 5,
+      "raca": "mastiff inglês",
+      "tipo": "cachorro",
+      "vacinado": true,
+      "genero": "F",
+      "servicos": [],
+      "castrado": true
+    },
+    {
+      "nome": "odin",
+      "idade": 2,
+      "raca": "huskie siberiano",
+      "tipo": "cachorro",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": [],
+      "castrado": true
+    },
+    {
+      "nome": "thor",
+      "idade": 4,
+      "raca": "fila brasileiro",
+      "tipo": "cachorro",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": [],
+      "castrado": true
+    },
+    {
+      "nome": "paçoca",
+      "idade": 2,
+      "raca": "yorkshire",
+      "tipo": "cachorro",
+      "vacinado": true,
+      "genero": "F",
+      "servicos": [],
+      "castrado": true
+    }
+  ]
+}
