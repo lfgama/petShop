@@ -151,3 +151,5 @@ atenderCliente(arquivoPets.pets[2], apararUnhasPet);
 console.log('-----------');
 atenderCliente(arquivoPets.pets[3], vacinarPet);
 buscarPet('pandora');
+
+let gitTeste = true;
