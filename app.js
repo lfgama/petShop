@@ -2,6 +2,8 @@ const moment = require('moment')
 const fs = require('fs');
 const nomePetShop = 'Los Dogues';
 const nomeArquivo = 'pets.json';
+const express = require('express');
+const app = express();
 
 let petsJSON = fs.readFileSync(nomeArquivo); //lê o conteúdo do arquivo
 let arquivoPets = JSON.parse(petsJSON); //converte para JS
