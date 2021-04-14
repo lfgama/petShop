@@ -13,5 +13,13 @@
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "moment": "^2.29.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfgama/petShop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lfgama/petShop/issues"
+  },
+  "homepage": "https://github.com/lfgama/petShop#readme"
 }
