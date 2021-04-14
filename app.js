@@ -3,6 +3,7 @@ const fs = require('fs');
 const nomePetShop = 'Los Dogues';
 const nomeArquivo = 'pets.json';
 const express = require('express');
+const path = require('path');
 const app = express();
 
 let petsJSON = fs.readFileSync(nomeArquivo); //lê o conteúdo do arquivo
